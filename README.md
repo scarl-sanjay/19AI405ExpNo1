@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Sanjay S k</h3>
+<h3>Name: Sanjay S </h3>
 <h3>Register Number/Staff Id: 212223040184/ TSML006</h3>
 
 
